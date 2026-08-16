@@ -7,8 +7,8 @@ An automated, closed-loop cooling system built with an Arduino microcontroller a
 ## 🎥 Project Demonstration & Media
 
 * 📺 **Video Demo:** [Watch the Hardware Demo in Action](https://drive.google.com/file/d/1vPGcn4jYVBXiDT5JXWfHWR9ZgAcGaG3f/view?usp=sharing).
-* 📸 **Circuit & Hardware Photos:** *(<img width="768" height="1020" alt="photo_2026-08-14_04-42-48" src="https://github.com/user-attachments/assets/869c82a0-26ce-4c09-86d2-a8939205035f" />
-)*
+* 📸 **Circuit & Hardware Photos:** *<img width="768" height="1020" alt="photo_2026-08-14_04-42-48" src="https://github.com/user-attachments/assets/869c82a0-26ce-4c09-86d2-a8939205035f" />
+*
 
 ---
 
@@ -46,7 +46,7 @@ An automated, closed-loop cooling system built with an Arduino microcontroller a
 
 1. Clone or download this repository:
    ```bash
-   git clone [https://github.com/Chigocal/temperature-controlled-fan.git](https://github.com/Chigocal/temperature-controlled-fan.git)
+   git clone [https://github.com/Chigocal/Temperature-Controlled-Fan.git](https://github.com/Chigocal/Temperature-Controlled-Fan.git)
    ```
 2. Open the `.ino` file in the **Arduino IDE**.
 3. Connect your Arduino board via USB.
